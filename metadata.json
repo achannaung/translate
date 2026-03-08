@@ -1,0 +1,5 @@
+{
+  "name": "English-Burmese Bidirectional Translator",
+  "description": "A responsive web application allowing users to translate text between English and Burmese seamlessly.",
+  "requestFramePermissions": []
+}
